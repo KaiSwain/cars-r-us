@@ -1,0 +1,64 @@
+{
+    "paint color": [
+        {
+            "id": 1,
+            "color": "Silver"
+        },
+        {
+            "id": 2,
+            "color": "Midnight Blue"
+        },
+        {
+            "id": 3,
+            "color": "Firebrick Red"
+        },
+        {
+            "id": 4,
+            "color": "Spring Green"
+        }
+    ],
+
+    "interior": [
+        {
+            "id": 1,
+            "type": "Beige Fabric"
+        },
+        {
+            "id": 2,
+            "type": "Charcoal Fabric"
+        },
+        {
+            "id": 3,
+            "type": "White Leather"
+        },
+        {
+            "id": 4,
+            "type": "Black Leather"
+        }
+    ],
+
+    "technology": [
+        {
+            "id": 1,
+            "package": "Basic Package (basic sound system)"
+        },
+        {
+            "id": 2,
+            "package": "Navigation Package (includes integrated navigation controls)"
+        },
+        {
+            "id": 3,
+            "package": "Visibility Package (includes side and rear cameras)"
+        },
+        {
+            "id": 4,
+            "package": "Ultra Package (includes navigation and visibility packages)"
+        }
+    ],
+
+    "orders": []
+
+    
+
+
+}
